@@ -1,2 +1,2 @@
-export { Ninja } from "./ninja";
-export { Samurai } from "./samurai";
+export { Ninja } from './ninja'
+export { Samurai } from './samurai'
